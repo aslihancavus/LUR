@@ -1,3 +1,3 @@
-# LUR
+# LUR: Loaded-Unloaded Recognition
 
-kendi �al��malar�m
+CASIA databasiyle açı temelinde yüklü olup-olmama durum teşhisi çalışmasıdır.
