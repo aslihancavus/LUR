@@ -12,10 +12,10 @@ function po = pathos(p)
 %	% lin: po = p
 %   % win: po = '..\\foo\\bar.m'
 %
-% ayni zamanda bk: pathsep
+% ayni zamanda bk: filesep
 po = p;
 
-if pathsep == '\'
+if filesep == '\'
 	ps = '\\';
 	po = strrep(p, '/', ps);
 end
